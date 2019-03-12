@@ -1,0 +1,4 @@
+  private void youritemActionPerformed(java.awt.event.ActionEvent evt) {
+     JTextFieldBox.setText(null);
+  }   
+  
