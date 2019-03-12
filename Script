@@ -1,0 +1,7 @@
+    private void yourbuttonnameMouseClicked(java.awt.event.MouseEvent evt) {                                           
+        Yourformname rgf = new Yourformname();
+        rgf.setVisible(true);
+        rgf.pack();
+        rgf.setLocationRelativeTo(null);
+        rgf.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        this.dispose();
